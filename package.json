@@ -1,0 +1,14 @@
+{
+  "name": "reotgrupal2",
+  "version": "1.0.0",
+  "description": "Joab, Isabel, Bernardo B",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bernardo Weber",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
